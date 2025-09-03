@@ -7,3 +7,4 @@
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
+- [Marcela Linhares Gabilan](https://github.com/MarcelaLinhares)
