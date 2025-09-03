@@ -18,5 +18,4 @@
 - [Rafael Giocondo Schmidt](https://github.com/Rafajos-ll)
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
 - [Thúllyo Da Silva Selleri Barcellos](https://github.com/Thullyoo)
-- [Yuri Brigido Ferreira](https://github.com/yuri-ferreira)
-- 
+- [Yuri Brigido Ferreira](https://github.com/yuri-ferreira) 
