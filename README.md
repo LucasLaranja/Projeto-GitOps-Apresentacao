@@ -6,6 +6,7 @@
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
 - [Juliana Araujo Moraes de Lima](https://github.com/JuhLima89)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
+- [Lucas abraão da Silva Ramos](https://github.com/lucas44993)
 - [Lucas Luiz Maia Sarasa](https://github.com/lucasarasa)
 - [Lucas Michail Laranja](https://github.com/LucasLaranja)
 - [Marcela Linhares Gabilan](https://github.com/MarcelaLinhares)
@@ -14,3 +15,4 @@
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
 - [Thúllyo Da Silva Selleri Barcellos](https://github.com/Thullyoo)
 - [Yuri Brigido Ferreira](https://github.com/yuri-ferreira)
+- 
