@@ -3,6 +3,8 @@
 - [Arley Gabriel Garcia Viana](https://github.com/ArleyGabriel06)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Bruno Duarte Agostinho da Costa](https://github.com/SirMusashi)
+- [Danilo Lustosa Baptista](https://github.com/DaniloLustosa-eng)
+- [Diogo Portella Dantas](https://github.com/Dgporte)
 - [Fábio Antunes Piassi](https://github.com/fassir)
 - [Fabíola Sakae Shimose Cavalcanti](https://github.com/fabsakae)
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
@@ -19,5 +21,4 @@
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
 - [Thúllyo Da Silva Selleri Barcellos](https://github.com/Thullyoo)
 - [Yuri Brigido Ferreira](https://github.com/yuri-ferreira)
-- [Diogo Portella Dantas](https://github.com/Dgporte)
-- [Danilo Lustosa Baptista](https://github.com/DaniloLustosa-eng)
+
