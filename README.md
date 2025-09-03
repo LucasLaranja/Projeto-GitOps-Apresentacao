@@ -8,7 +8,7 @@
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
 - [Juliana Araujo Moraes de Lima](https://github.com/JuhLima89)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
-- [Leonardo Reis Costa] (https://github.com/leoo-tech)
+- [Leonardo Reis Costa](https://github.com/leoo-tech)
 - [Lucas abraão da Silva Ramos](https://github.com/lucas44993)
 - [Lucas Luiz Maia Sarasa](https://github.com/lucasarasa)
 - [Lucas Michail Laranja](https://github.com/LucasLaranja)
