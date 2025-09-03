@@ -1,6 +1,7 @@
 ## Projetos-PB-Encerramento
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
+- [Fabíola SAkae Shimose Cavalcanti](https://github.com/fabsakae)
 - [Fábio Antunes Piassi](https://github.com/fassir)
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
 - [Juliana Araujo Moraes de Lima](https://github.com/JuhLima89)
