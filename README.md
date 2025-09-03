@@ -2,6 +2,7 @@
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Fábio Antunes Piassi](https://github.com/fassir)
+- [Fabíola Sakae Shimose Cavalcanti](https://github.com/fabsakae)
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
 - [Juliana Araujo Moraes de Lima](https://github.com/JuhLima89)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
