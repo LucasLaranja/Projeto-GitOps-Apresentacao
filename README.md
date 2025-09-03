@@ -11,6 +11,7 @@
 - [Lucas Luiz Maia Sarasa](https://github.com/lucasarasa)
 - [Lucas Michail Laranja](https://github.com/LucasLaranja)
 - [Marcela Linhares Gabilan](https://github.com/MarcelaLinhares)
+- [Paulo Farias Lima](https://github.com/PauloFariasLima8)
 - [Pedro Ramos Makhoul](https://github.com/PedroMak)
 - [Rafael Giocondo Schmidt](https://github.com/Rafajos-ll)
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
