@@ -9,3 +9,4 @@
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
 - [Marcela Linhares Gabilan](https://github.com/MarcelaLinhares)
 - [Thúllyo Da Silva Selleri Barcellos](https://github.com/Thullyoo)
+- [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
