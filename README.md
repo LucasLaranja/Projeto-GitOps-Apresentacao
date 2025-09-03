@@ -6,3 +6,4 @@
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
+- [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
