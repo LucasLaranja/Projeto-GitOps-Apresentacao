@@ -5,3 +5,4 @@
 - [Lucas Luiz Maia Sarasa](https://github.com/lucasarasa)
 - [Sabrina Souza Daudt](https://github.com/Sabrina-sz)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
+- [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
