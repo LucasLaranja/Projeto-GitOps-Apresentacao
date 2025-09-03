@@ -7,6 +7,7 @@
 - [Diogo Portella Dantas](https://github.com/Dgporte)
 - [Fábio Antunes Piassi](https://github.com/fassir)
 - [Fabíola Sakae Shimose Cavalcanti](https://github.com/fabsakae)
+- [Giovanna Freitas dos Santos](https://github.com/oig04)
 - [Jorge Antero Melo Aragão Brás](https://github.com/JorgeAntero)
 - [Juliana Araujo Moraes de Lima](https://github.com/JuhLima89)
 - [Leiliane Nogueira Pinto Cavalcante](https://github.com/leilianecavalcante)
