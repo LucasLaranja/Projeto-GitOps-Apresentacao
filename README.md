@@ -20,3 +20,4 @@
 - [Thúllyo Da Silva Selleri Barcellos](https://github.com/Thullyoo)
 - [Yuri Brigido Ferreira](https://github.com/yuri-ferreira)
 - [Diogo Portella Dantas](https://github.com/Dgporte)
+- [Danilo Lustosa Baptista](https://github.com/DaniloLustosa-eng)
