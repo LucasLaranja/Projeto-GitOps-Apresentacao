@@ -1,4 +1,4 @@
-# Projetos-PB-Encerramento
+## Projetos-PB-Encerramento
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Fábio Antunes Piassi](https://github.com/fassir)
