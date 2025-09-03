@@ -1,5 +1,6 @@
 ## Projetos-PB-Encerramento
 - [Algacyr Silva de Melo Junior](https://github.com/algacyr-melo)
+- [Arley Gabriel Garcia Viana](https://github.com/ArleyGabriel06)
 - [Bernardo Meucci Alves Pereira](https://github.com/BernardoMeucci)
 - [Bruno Duarte Agostinho da Costa](https://github.com/SirMusashi)
 - [Fábio Antunes Piassi](https://github.com/fassir)
